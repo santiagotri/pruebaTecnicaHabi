@@ -1,0 +1,11 @@
+10
+<html>
+<body>
+<h2 title="I'm a header">The title Attribute</h2>
+<a href="https://google.com/">Google</a>
+<a href="https://google.com/">Google2</a>
+<a href="https://www.ads.facebook.com/">Facebook</a>
+<a href="https://www.facebook.com/">Facebook2</a>
+<p title="I'm a tooltip">Mouse over this paragraph, to display the title attribute as a tooltip.</p>
+</body>
+</html>
